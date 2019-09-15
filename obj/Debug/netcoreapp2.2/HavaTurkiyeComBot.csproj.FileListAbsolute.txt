@@ -1,0 +1,8 @@
+C:\Users\Admintr\source\repos\HavaTurkiyeComBot\HavaTurkiyeComBot\bin\Debug\netcoreapp2.2\HavaTurkiyeComBot.deps.json
+C:\Users\Admintr\source\repos\HavaTurkiyeComBot\HavaTurkiyeComBot\bin\Debug\netcoreapp2.2\HavaTurkiyeComBot.runtimeconfig.json
+C:\Users\Admintr\source\repos\HavaTurkiyeComBot\HavaTurkiyeComBot\bin\Debug\netcoreapp2.2\HavaTurkiyeComBot.runtimeconfig.dev.json
+C:\Users\Admintr\source\repos\HavaTurkiyeComBot\HavaTurkiyeComBot\bin\Debug\netcoreapp2.2\HavaTurkiyeComBot.dll
+C:\Users\Admintr\source\repos\HavaTurkiyeComBot\HavaTurkiyeComBot\obj\Debug\netcoreapp2.2\HavaTurkiyeComBot.csproj.CoreCompileInputs.cache
+C:\Users\Admintr\source\repos\HavaTurkiyeComBot\HavaTurkiyeComBot\obj\Debug\netcoreapp2.2\HavaTurkiyeComBot.AssemblyInfoInputs.cache
+C:\Users\Admintr\source\repos\HavaTurkiyeComBot\HavaTurkiyeComBot\obj\Debug\netcoreapp2.2\HavaTurkiyeComBot.AssemblyInfo.cs
+C:\Users\Admintr\source\repos\HavaTurkiyeComBot\HavaTurkiyeComBot\obj\Debug\netcoreapp2.2\HavaTurkiyeComBot.csprojAssemblyReference.cache
